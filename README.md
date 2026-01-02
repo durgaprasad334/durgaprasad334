@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hello, I’m Durgaprasad 👨‍💻
+A passionate Software Developer & Cybersecurity Enthusiast who loves building practical, real-world applications that solve problems and educate users.
+
 🔭 I’m currently working on:-Building and deploying web applications using Python, Flask, and Render, including an Online Quiz Application.<br>👯 I’m looking to collaborate on:-Full-stack web development projects, Python-based applications, and innovative, practical projects that involve dynamic content and cloud deployment.<br>🤝 I’m looking for help with:-Advanced backend integration, database optimization, and secure web application development.<br>🌱 I’m currently learning:-Django, API development, cloud deployment practices, and cybersecurity fundamentals to improve my web applications’ scalability and security.<br>💬 Ask me about:-Python, Flask, web development, deploying apps on Render, project structure, and debugging issues.<br>📫 How to reach me:-Email: dp7271427@gmail.com.com<br>👨‍💻 All of my projects are available at:-https://github.com/durgaprasad334<br>
 
 
